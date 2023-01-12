@@ -1,0 +1,11 @@
+
+
+.address {
+    display: flex;
+    align-items: center;
+}
+
+.address p {
+    margin-bottom: 0;
+    line-height: 17px;
+}
